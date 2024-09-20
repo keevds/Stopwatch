@@ -1,0 +1,14 @@
+/Users/kevinbarbosa/Dev/Study/Stopwatch/bin/Debug/net8.0/Stopwatch
+/Users/kevinbarbosa/Dev/Study/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/Users/kevinbarbosa/Dev/Study/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/Users/kevinbarbosa/Dev/Study/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/Users/kevinbarbosa/Dev/Study/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/Users/kevinbarbosa/Dev/Study/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
