@@ -8,7 +8,6 @@
     string data = Console.ReadLine().ToLower();
     Console.WriteLine(data);
 }
-``
 // static void Start(int time){
 //     int currenTime = 0;
 
